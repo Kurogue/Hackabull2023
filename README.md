@@ -1,3 +1,3 @@
-# Hackabull 2023
+# Whack-a-Live
 
-This is a repo for USF's 2023 Hackabull event.
+In progress fan based game, for hololive.
